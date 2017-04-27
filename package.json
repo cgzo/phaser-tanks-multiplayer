@@ -1,0 +1,33 @@
+{
+  "name": "phaser-tanks-multiplayer",
+  "version": "0.2.0",
+  "description": "Multiplayer version of Phaser Tanks game example",
+  "main": "server.js",
+  "dependencies": {
+    "engine.io": "^2.1.1",
+    "eureca.io": "^0.7.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgzo/phaser-tanks-multiplayer.git"
+  },
+  "keywords": [
+    "phaser",
+    "multiplayer",
+    "tanks",
+    "example",
+    "game"
+  ],
+  "author": "Phaser,Ezelia,cgzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgzo/phaser-tanks-multiplayer/issues"
+  },
+  "homepage": "https://github.com/cgzo/phaser-tanks-multiplayer#readme"
+}
